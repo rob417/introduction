@@ -24,4 +24,3 @@ This seems like a good place for me to throw out that I can help you pay for col
 Check us out on <a href="https://www.facebook.com/BearBattalionROTC/"> Facebook </a> or <br>
 Find out more from the<a href="http://www.missouristate.edu/milsci/"> Military Science </a> web page. <br>
 Send me an <a href="mailto: proberson@missouristate.edu?Subject=Hello%20from%20CIS%20370"> email </a> <br>
-
