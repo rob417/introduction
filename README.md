@@ -19,10 +19,10 @@ I believe that playing around with your assignments and adding in additinal feat
 <hr>
 <H1> Military Science </H1>
 
-Here's another cool fact, I work in the Military Science Department as the Scholarship and Enrollment Officer. <br>
-This is a good opportunity for me to learn some additional skills to help maintain our web page.
+Cool fact, I work in the Military Science Department as the Scholarship and Enrollment Officer. <br>
+I hope to learn some additional skills to help maintain our web page.
 
-This seems like a good time for me to throw out that I can help you pay for college...  ;-)
+This seems like a good time to mention that I can help you pay for college...  ;-)
 
 <h3> Web Pages and Links </h3>
 Check us out on <a href="https://www.facebook.com/BearBattalionROTC/"> Facebook </a> or <br>
