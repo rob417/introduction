@@ -1,5 +1,3 @@
-
-<br>
 # introduction
 Introduction page - web project for CIS 370 <br>
 Greetings fellow classmates. <br> <br>
@@ -10,7 +8,7 @@ My skills are super limited, but I hope to relearn some of the basics, work on m
 <hr>
 This is a <em> <u> horizontal rule </u> </em>. <br>
 Note to self:  the /u tag is obsolete. <br>
-Struggled with underlining text. <br>
+I was tyring to underline some text, but I seem to be struggling with it. <br>
 
 I believe that playing around with your assignments and adding in additinal features is the best way to learn.
 <hr>
