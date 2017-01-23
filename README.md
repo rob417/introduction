@@ -7,8 +7,7 @@ Introduction page - web project for CIS 370 <br> <br>
 Greetings fellow classmates. <br> <br>
 I used to dabble in HTML back in the days of MySpace. <br>
 There was a time when I enjoyed learning about HTML and the cool things you can do with a webpage. <br> <br>
-My skills are super limited, but I hope to relearn some of the basics, work on my code structure, and catch up on available technologies.  
-<br>
+My skills are super limited, but I hope to relearn some of the basics, work on my code structure, and catch up on available technologies.
 <hr>
 The line above is a <em> <u> horizontal rule </u> </em>. <br>
 Note to self:  the /u tag is obsolete. <br>
