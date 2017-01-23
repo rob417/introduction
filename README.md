@@ -3,7 +3,6 @@ p1{text-align=center;}
 </style>
 <p1># Introduction </p1><br>
 Introduction page - web project for CIS 370 <br> <br>
-
 Greetings fellow classmates. <br> <br>
 I used to dabble in HTML back in the days of MySpace. <br>
 There was a time when I enjoyed learning about HTML and the cool things you can do with a webpage. <br> <br>
