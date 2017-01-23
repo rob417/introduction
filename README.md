@@ -7,8 +7,8 @@ My skills are super limited, but I hope to relearn some of the basics, work on m
 <hr>
 This is a <em> <u> horizontal rule </u> </em>. </br>
 Note to self:  the /u tag is obsolete. <br>
-Let's try that again. </br>
-<span style="text-decoration: underline;"> this is underlined </span> </br>
+Struggled with underlining text. </br>
+
 I believe that playing around with your assignments and adding in additinal features is the best way to learn.
 <hr>
 <H1> Military Science </H1>
@@ -22,3 +22,4 @@ This seems like a good place for me to throw out that I can help you pay for col
 Check us out on <a href="https://www.facebook.com/BearBattalionROTC/"> Facebook </a> or </br>
 find out more<a href="http://www.missouristate.edu/milsci/"> Military Science </a> web page. </br>
 Send me an <a href="mailto: proberson@missouristate.edu?Subject=Hello%20from%20CIS%20370"> email </a> </br>
+</html>
