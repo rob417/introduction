@@ -1,7 +1,8 @@
 <style>
 p1{text-align=center;}
 </style>
-<p1># Introduction </p1><br>
+
+<h1> <p1># Introduction </p1> </h1> <br>
 Introduction page - web project for CIS 370 <br> <br>
 Greetings fellow classmates. <br> <br>
 I used to dabble in HTML back in the days of MySpace. <br>
@@ -15,7 +16,7 @@ Wait... now I'm confused... <u> The /u tag shows up properly on the webpage, but
 
 I believe that playing around with your assignments and adding in additinal features is the best way to learn.
 <hr>
-<H1> Military Science </H1>
+<H3> Military Science </H3>
 Cool fact, I work in the Military Science Department as the Scholarship and Enrollment Officer. <br>
 I hope to learn some additional skills to help maintain our web page.
 
