@@ -1,7 +1,7 @@
 <style>
 p1{text-align=center;}
 </style>
-<p1># introduction </p1><br>
+<p1># Introduction </p1><br>
 Introduction page - web project for CIS 370 <br> <br>
 </center>
 
