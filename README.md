@@ -11,10 +11,10 @@ My skills are super limited, but I hope to relearn some of the basics, work on m
 <hr>
 The line above is a <em> <u> horizontal rule </u> </em>. <br>
 Note to self:  the /u tag is obsolete. <br>
-I was tyring to underline some text, but I seem to be struggling with it. <br>
+I was trying to underline some text, but I seem to be struggling with it. <br>
 Wait... now I'm confused... <u> The /u tag shows up properly on the webpage, but not in the preview. </u>
 
-I believe that playing around with your assignments and adding in additinal features is the best way to learn.
+I believe that playing around with your assignments and adding in additional features is the best way to learn.
 <hr>
 <H3> Military Science </H3>
 Cool fact, I work in the Military Science Department as the Scholarship and Enrollment Officer. <br>
